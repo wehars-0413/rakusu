@@ -1,0 +1,27 @@
+git add .
+
+git commit -m "[Add] xxxxxxxxx"
+
+
+git push origin master(ブランチ名)
+
+
+git clone http://
+
+
+
+
+【masterに取り込み、更新】リモートのmasterが更新されたため、ローカルのmasterに単純に取り込みたい
+
+[branch上]
+$ git checkout master
+
+[master上]
+$ git fetch
+$ git merge
+
+[now:masterに更新かかった状態]
+
+[その他]
+$ git branch [新しいbranch切る]
+$ git branch -D [先程までのいらないbranch]
