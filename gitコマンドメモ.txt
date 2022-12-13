@@ -25,3 +25,8 @@ $ git merge
 [その他]
 $ git branch [新しいbranch切る]
 $ git branch -D [先程までのいらないbranch]
+
+
+
+基本的なGitコマンドまとめ
+https://qiita.com/2m1tsu3/items/6d49374230afab251337
